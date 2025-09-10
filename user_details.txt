@@ -5,4 +5,5 @@ College: Pimpri Chinchwad College of Engineering
 Univeristy: Savitribai Phule Pune University (SPPU)
 City: Pune
 State: Maharashtra
-Email: xyz@example.com
+Email (Personal): xyz@example.com
+Email (College): kartik.totlani@example.com
