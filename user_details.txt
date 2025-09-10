@@ -7,3 +7,4 @@ City: Pune
 State: Maharashtra
 Email (Personal): xyz@example.com
 Email (College): kartik.totlani@example.com
+"LinkedIn: linkedin.com/in/kartiktotlani" 
