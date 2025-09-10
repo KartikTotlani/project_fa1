@@ -1,3 +1,7 @@
-"Branch: Information Technology" 
 First Name: Kartik 
 Last Name: Totlani 
+Branch: Information Technology
+College: Pimpri Chinchwad College of Engineering
+Univeristy: Savitribai Phule Pune University (SPPU)
+City: Pune
+State: Maharashtra
