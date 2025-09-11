@@ -1,0 +1,26 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Compiling C++ code...'
+                bat 'g++ sorted_array.cpp -o sorted_array.exe'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                echo 'Running C++ program...'
+                bat '.\\sorted_array.exe'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deploying application...'
+                // Add deployment steps here (e.g., moving files, pushing to a server)
+            }
+        }
+    }
+}
